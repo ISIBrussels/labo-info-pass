@@ -1,11 +1,21 @@
 # Laboratoire Info Pass
 
-Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Laboratoire Info Pass** à l'**ISIB** (HE2B).
+Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Laboratoire Info Pass** (master passerelles) à l'**ISIB** (HE2B).
 
 Vous y trouverez l'ensemble des ressources du laboratoire :
 
 - les **slides de cours** et des **quiz**
 - les **énoncés d'exercices**
+
+## Grandes lignes
+
+Parcours accéléré (~14 séances) qui reprend, en version condensée :
+
+- **tout** *Techniques informatiques 1* — bases de Python (types, opérateurs, fonctions, conditions, boucles, collections)
+- **tout** *Labo tech info 2* — modules, exceptions, fichiers, NumPy, pandas, matplotlib
+- la **partie POO** de *Labo tech info 3* — **sans** SQL
+
+Public hétérogène (dont futurs électroniciens). Examen plutôt simple.
 
 ## Tableau des séances
 
