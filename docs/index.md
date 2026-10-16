@@ -1,6 +1,6 @@
-# Laboratoire Info Pass
+# Laboratoire d'Informatique Passerelles
 
-Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Laboratoire Info Pass** (master passerelles) à l'**ISIB** (HE2B).
+Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Laboratoire d'Informatique Passerelles** à l'**ISIB** (HE2B).
 
 Vous y trouverez l'ensemble des ressources du laboratoire :
 
