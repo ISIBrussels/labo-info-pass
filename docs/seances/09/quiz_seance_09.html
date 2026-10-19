@@ -98,6 +98,12 @@
         padding: 0.75rem 1rem;
         border-bottom: 1px solid var(--color-border);
         cursor: pointer;
+        font-weight: normal;
+      }
+
+      .answers label strong,
+      .answers label b {
+        font-weight: normal;
       }
 
       .answers label:last-child {
@@ -189,7 +195,6 @@
       }
 
       .result-item .verdict {
-        font-weight: 600;
         margin-top: 0.5rem;
       }
 
@@ -205,6 +210,12 @@
       .recap-option {
         padding: 0.45rem 0.65rem;
         border-bottom: 1px solid var(--color-border);
+        font-weight: normal;
+      }
+
+      .recap-option strong,
+      .recap-option b {
+        font-weight: normal;
       }
 
       .recap-option:last-child {
@@ -214,7 +225,7 @@
       .recap-option.correct {
         background: var(--color-row-alt);
         color: var(--color-primary);
-        font-weight: 600;
+        font-weight: normal;
       }
 
       .recap-option.wrong {
@@ -335,6 +346,23 @@
       function saveState() {
         localStorage.setItem(storageKey, JSON.stringify(answers));
         localStorage.setItem(indexKey, String(currentIndex));
+      }
+
+
+      function shuffleInPlace(items) {
+        for (let i = items.length - 1; i > 0; i -= 1) {
+          const j = Math.floor(Math.random() * (i + 1));
+          const tmp = items[i];
+          items[i] = items[j];
+          items[j] = tmp;
+        }
+        return items;
+      }
+
+      function shuffleAllOptions() {
+        questions.forEach((question) => {
+          shuffleInPlace(question.options);
+        });
       }
 
       function getCurrentQuestion() {
@@ -472,6 +500,7 @@
         feedbackEl.className = "question-feedback";
         summaryEl.innerHTML = "";
         summaryEl.className = "result";
+        shuffleAllOptions();
         renderQuestion();
       }
 
@@ -495,6 +524,7 @@
       resetBtn.addEventListener("click", resetQuiz);
 
       loadState();
+      shuffleAllOptions();
       renderQuestion();
     </script>
 
