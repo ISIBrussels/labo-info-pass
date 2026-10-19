@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: tech-info
-title: "Labo Info Pass — Séance 9"
+title: "Séance 9 — Thème à définir"
 paginate: true
 header: "Labo Info Pass — Séance 9 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[← Retour à l'accueil](../../index.html)"

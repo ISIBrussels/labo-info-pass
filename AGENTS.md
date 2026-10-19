@@ -1,10 +1,32 @@
 # Règles du dépôt (labo-info-pass)
 
-Alignées sur labo-tech-info-2, labo-tech-info-3 et tech-info-1.
+Sources : commits / templates de `labo-tech-info-2`, `labo-tech-info-3`, `tech-info-1`, `methodo-algo` (et conventions proches dans `outils-info-ia`). Aucun `AGENTS.md` / `.cursor/rules` / `CONTRIBUTING` chez les voisins — les règles sont dans le HTML des quiz, le workflow Pages et les messages de commit.
 
 ## Quiz (strict)
 
-1. **Pas de gras sur les réponses** — le texte des choix (liste d’options et récap) reste en graisse normale, y compris un éventuel `<strong>` / `<b>` imbriqué. Idem pour le texte de feedback / verdict du débrief. Le libellé de la question (stem) peut rester en emphase UI.
-2. **Ordre des réponses aléatoire** — à chaque chargement de page et à chaque « Recommencer », mélanger `question.options` côté client (`shuffleAllOptions`). La correction compare toujours `answers[id]` à `question.correct` (valeurs stables `A`/`B`/…), pas la position affichée.
+1. **Pas de gras sur les réponses** — choix (liste + récap) en graisse normale, y compris `<strong>` / `<b>` imbriqués ; idem feedback / verdict du débrief. Stem (énoncé) : emphase UI autorisée.  
+   *Sources :* commits « remove bold… » LTI2/LTI3/tech-info-1 ; « pas de gras dans les choix » methodo-algo.
+2. **Ordre des réponses aléatoire** — `shuffleAllOptions()` (ou équivalent) au chargement et au reset ; scoring sur `question.correct` (ids stables), pas la position.  
+   *Sources :* commits « shuffle quiz answer choices… » LTI2/LTI3/tech-info-1/methodo-algo.
+3. **Titres d’onglet / H1 quiz** — format `Séance N — Quiz` (pas `Labo … — Quiz séance N`).  
+   *Sources :* commits « align page titles with Tech Info 1 » ; templates origin LTI2/LTI3/tech-info-1/methodo-algo.
 
-Tout nouveau `quiz_seance_*.html` doit reprendre ces comportements (voir les stubs existants).
+## Titres Pages (strict)
+
+4. **Onglet exercices** — `Séance N — Exercices` (via `page_title` dans `.github/workflows/deploy.yml`).  
+5. **Onglet accueil** — `Labo Info Pass — ISIB` (em dash).  
+6. **Marp `title` des slides** — `Séance N — <thème>` ; le `header` garde la marque du cours (`Labo Info Pass — Séance N …`).  
+   *Sources :* mêmes commits d’alignement des titres ; front matter origin des labos voisins.
+
+## Contenu quiz (quand on remplit pour de vrai)
+
+7. **~10 QCM** par séance une fois le quiz réel rédigé (pratique tech-info-1 / methodo-algo).  
+8. **Pas d’indice « leading »** dans l’énoncé qui donne la réponse (commit tech-info-1 « strip leading quiz hints… »).  
+9. **Mauvaises réponses en rouge** (`--color-error`) : en vigueur sur le template « toutes questions visibles » (tech-info-1 / methodo-algo). Le template LTI2/LTI3/labo-info-pass (une question à la fois + récap) utilise pour l’instant le gris + barré — **ne pas divergir de LTI2/LTI3** sans décision explicite.
+
+## Slides (style)
+
+10. **Pas de tirets cadratins « IA » dans la prose** des slides (séparateurs de propositions) — préférer virgules / parenthèses / points-virgules ; garder `—` dans titres / headers / plages numériques.  
+    *Sources :* tech-info-1 « remove AI-style em dashes… » ; outils-info-ia « retire tirets longs… ».
+
+Tout nouveau `quiz_seance_*.html` / page générée doit respecter 1–6 ; 7–10 dès qu’on écrit du contenu pédagogique.
