@@ -300,13 +300,13 @@
           id: "q1",
           text: "Ceci est une question placeholder. Quelle est la bonne réponse ?",
           options: [
-            { value: "A", label: "Réponse A" },
-            { value: "B", label: "Réponse B" },
+            { value: "A", label: "Réponse une" },
+            { value: "B", label: "Réponse deux" },
             { value: "C", label: "La bonne réponse" },
-            { value: "D", label: "Réponse D" },
+            { value: "D", label: "Réponse quatre" },
           ],
           correct: "C",
-          feedback: "Placeholder : la bonne réponse est C. Remplacez cette question par le quiz de la séance 7.",
+          feedback: "Placeholder : choisissez « La bonne réponse ». Remplacez cette question par le quiz de la séance 7.",
         },
       ];
 
@@ -373,7 +373,7 @@
         return `
           <ul class="recap-options">
             ${question.options
-              .map((option) => {
+              .map((option, index) => {
                 const isCorrect = option.value === question.correct;
                 const isChosen = option.value === answer;
                 const classes = ["recap-option"];
@@ -384,7 +384,7 @@
                 if (isCorrect) tag = '<span class="recap-tag">bonne réponse</span>';
                 else if (isChosen) tag = '<span class="recap-tag">réponse sélectionnée</span>';
 
-                return `<li class="${classes.join(" ")}">${option.value}. ${option.label}${tag}</li>`;
+                return `<li class="${classes.join(" ")}">${String.fromCharCode(65 + index)}. ${option.label}${tag}</li>`;
               })
               .join("")}
           </ul>
@@ -402,7 +402,7 @@
           <div class="answers">
             ${question.options
               .map(
-                (option) => `
+                (option, index) => `
               <label>
                 <input
                   type="radio"
@@ -411,7 +411,7 @@
                   ${selected === option.value ? "checked" : ""}
                   ${checked ? "disabled" : ""}
                 />
-                ${option.value}. ${option.label}
+                ${String.fromCharCode(65 + index)}. ${option.label}
               </label>
             `
               )
