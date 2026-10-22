@@ -22,4 +22,4 @@ Dépôt du **Laboratoire Info Pass** à l'ISIB - HE2B.
 - **Séance 11 — matplotlib** : [Cours](docs/seances/11/cours_seance_11.md) · [Quiz](docs/seances/11/quiz_seance_11.html) · [Exercices](docs/seances/11/exercices_seance_11.md)
 - **Séance 12 — POO : classes et objets** : [Cours](docs/seances/12/cours_seance_12.md) · [Quiz](docs/seances/12/quiz_seance_12.html) · [Exercices](docs/seances/12/exercices_seance_12.md)
 - **Séance 13 — POO : plusieurs classes, composition** : [Cours](docs/seances/13/cours_seance_13.md) · [Quiz](docs/seances/13/quiz_seance_13.html) · [Exercices](docs/seances/13/exercices_seance_13.md)
-- **Séance 14 — Héritage léger** : [Cours](docs/seances/14/cours_seance_14.md) · [Quiz](docs/seances/14/quiz_seance_14.html) · [Exercices](docs/seances/14/exercices_seance_14.md)
+- **Séance 14 — POO : héritage** : [Cours](docs/seances/14/cours_seance_14.md) · [Quiz](docs/seances/14/quiz_seance_14.html) · [Exercices](docs/seances/14/exercices_seance_14.md)
