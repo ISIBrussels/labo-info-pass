@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: tech-info
-title: "Séance 8 — Thème à définir"
+title: "Séance 8 — Exceptions et *one-liners*"
 paginate: true
 header: "Labo Info Pass — Séance 8 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[← Retour à l'accueil](../../index.html)"
@@ -9,7 +9,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 # Séance 8
 
-Thème à définir
+Exceptions et *one-liners*
 
 [→ Quiz](quiz_seance_08.html)
 [→ Exercices](exercices_seance_08.html)
