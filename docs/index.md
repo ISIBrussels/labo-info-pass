@@ -23,7 +23,7 @@ Vous y trouverez l'ensemble des ressources du laboratoire :
 | 10 | pandas | [Cours](seances/10/cours_seance_10.md) | [Quiz](seances/10/quiz_seance_10.html) | [Exercices](seances/10/exercices_seance_10.md) |
 | 11 | matplotlib | [Cours](seances/11/cours_seance_11.md) | [Quiz](seances/11/quiz_seance_11.html) | [Exercices](seances/11/exercices_seance_11.md) |
 | 12 | POO : classes et objets | [Cours](seances/12/cours_seance_12.md) | [Quiz](seances/12/quiz_seance_12.html) | [Exercices](seances/12/exercices_seance_12.md) |
-| 13 | POO : plusieurs classes, composition | [Cours](seances/13/cours_seance_13.md) | [Quiz](seances/13/quiz_seance_13.html) | [Exercices](seances/13/exercices_seance_13.md) |
+| 13 | POO : composition | [Cours](seances/13/cours_seance_13.md) | [Quiz](seances/13/quiz_seance_13.html) | [Exercices](seances/13/exercices_seance_13.md) |
 | 14 | POO : héritage | [Cours](seances/14/cours_seance_14.md) | [Quiz](seances/14/quiz_seance_14.html) | [Exercices](seances/14/exercices_seance_14.md) |
 
 <footer class="site-footer"><a href="mailto:shuraux@he2b.be">Sylvain Huraux - HE2B - ISIB</a></footer>
