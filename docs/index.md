@@ -7,17 +7,6 @@ Vous y trouverez l'ensemble des ressources du laboratoire :
 - les **slides de cours** et des **quiz**
 - les **énoncés d'exercices**
 
-## Grandes lignes
-
-Parcours accéléré (**14 × 3 h**) pour master passerelles, qui reprend en version condensée :
-
-- **bases Python** (*Techniques informatiques 1*) — types, opérateurs, fonctions, conditions, boucles, méthodes, `set` / `dict`, puis modules / `input()`
-- **scripts utiles** (*Labo tech info 2*) — fichiers (texte, JSON, CSV), exceptions, *one-liners*
-- **données** — PyCharm + NumPy, pandas, matplotlib
-- **POO** (*Labo tech info 3*, **sans SQL**) — classes, composition, héritage léger
-
-Public hétérogène (dont futurs électroniciens). Examen plutôt simple.
-
 ## Tableau des séances
 
 | Séance | Thème | Cours | Quiz | Exercices |
