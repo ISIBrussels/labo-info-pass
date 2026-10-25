@@ -17,7 +17,7 @@ Vous y trouverez l'ensemble des ressources du laboratoire :
 | 4 | Fonctions *built-in* et méthodes d'instances | [Cours](seances/04/cours_seance_04.md) | [Quiz](seances/04/quiz_seance_04.html) | [Exercices](seances/04/exercices_seance_04.md) |
 | 5 | `set` et `dict` | [Cours](seances/05/cours_seance_05.md) | [Quiz](seances/05/quiz_seance_05.html) | [Exercices](seances/05/exercices_seance_05.md) |
 | 6 | Fonction `main()`, modules | [Cours](seances/06/cours_seance_06.md) | [Quiz](seances/06/quiz_seance_06.html) | [Exercices](seances/06/exercices_seance_06.md) |
-| 7 | Manipulation de fichiers (txt, JSON, csv) | [Cours](seances/07/cours_seance_07.md) | [Quiz](seances/07/quiz_seance_07.html) | [Exercices](seances/07/exercices_seance_07.md) |
+| 7 | `input()`, manipulation de fichiers (txt, JSON, csv) | [Cours](seances/07/cours_seance_07.md) | [Quiz](seances/07/quiz_seance_07.html) | [Exercices](seances/07/exercices_seance_07.md) |
 | 8 | Exceptions et *one-liners* | [Cours](seances/08/cours_seance_08.md) | [Quiz](seances/08/quiz_seance_08.html) | [Exercices](seances/08/exercices_seance_08.md) |
 | 9 | PyCharm + NumPy | [Cours](seances/09/cours_seance_09.md) | [Quiz](seances/09/quiz_seance_09.html) | [Exercices](seances/09/exercices_seance_09.md) |
 | 10 | pandas | [Cours](seances/10/cours_seance_10.md) | [Quiz](seances/10/quiz_seance_10.html) | [Exercices](seances/10/exercices_seance_10.md) |
