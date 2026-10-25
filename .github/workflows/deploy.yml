@@ -256,10 +256,6 @@ jobs:
                   color: var(--color-secondary);
                 }
 
-                ul + ul {
-                  margin-top: 1.75rem;
-                }
-
                 li + li {
                   margin-top: 0.35rem;
                 }
@@ -274,7 +270,7 @@ jobs:
 
                 thead th {
                   background: var(--color-primary);
-                  color: #fff;
+                  color: #ffffff;
                   font-weight: 600;
                   font-size: 0.9rem;
                   letter-spacing: 0.03em;
@@ -325,7 +321,7 @@ jobs:
 
                 table a:hover {
                   background: var(--color-primary);
-                  color: #fff;
+                  color: #ffffff;
                 }
 
                 .site-footer {
