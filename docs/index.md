@@ -19,7 +19,7 @@ Vous y trouverez l'ensemble des ressources du laboratoire :
 | 6 | Modules, fonction `main()` | [Cours](seances/06/cours_seance_06.md) | [Quiz](seances/06/quiz_seance_06.html) | [Exercices](seances/06/exercices_seance_06.md) |
 | 7 | Fonction `input()`, manipulation de fichiers (txt, JSON, csv) | [Cours](seances/07/cours_seance_07.md) | [Quiz](seances/07/quiz_seance_07.html) | [Exercices](seances/07/exercices_seance_07.md) |
 | 8 | Exceptions (`try` / `except`) | [Cours](seances/08/cours_seance_08.md) | [Quiz](seances/08/quiz_seance_08.html) | [Exercices](seances/08/exercices_seance_08.md) |
-| 9 | PyCharm + NumPy | [Cours](seances/09/cours_seance_09.md) | [Quiz](seances/09/quiz_seance_09.html) | [Exercices](seances/09/exercices_seance_09.md) |
+| 9 | PyCharm, NumPy | [Cours](seances/09/cours_seance_09.md) | [Quiz](seances/09/quiz_seance_09.html) | [Exercices](seances/09/exercices_seance_09.md) |
 | 10 | pandas | [Cours](seances/10/cours_seance_10.md) | [Quiz](seances/10/quiz_seance_10.html) | [Exercices](seances/10/exercices_seance_10.md) |
 | 11 | matplotlib | [Cours](seances/11/cours_seance_11.md) | [Quiz](seances/11/quiz_seance_11.html) | [Exercices](seances/11/exercices_seance_11.md) |
 | 12 | POO : classes et objets | [Cours](seances/12/cours_seance_12.md) | [Quiz](seances/12/quiz_seance_12.html) | [Exercices](seances/12/exercices_seance_12.md) |
