@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: tech-info
-title: "Séance 7 — Fichiers texte, JSON, CSV"
+title: "Séance 7 — `input()`, fichiers texte, JSON, CSV"
 paginate: true
 header: "Labo Info Pass — Séance 7 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[← Retour à l'accueil](../../index.html)"
@@ -9,7 +9,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 # Séance 7
 
-Fichiers texte, JSON, CSV
+`input()`, fichiers texte, JSON, CSV
 
 [→ Quiz](quiz_seance_07.html)
 [→ Exercices](exercices_seance_07.html)

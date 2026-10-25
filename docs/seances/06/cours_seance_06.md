@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: tech-info
-title: "Séance 6 — *Type hints*, fonction `main()`, modules, `input()`"
+title: "Séance 6 — Fonction `main()`, modules"
 paginate: true
 header: "Labo Info Pass — Séance 6 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[← Retour à l'accueil](../../index.html)"
@@ -9,7 +9,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 # Séance 6
 
-*Type hints*, fonction `main()`, modules, `input()`
+Fonction `main()`, modules
 
 [→ Quiz](quiz_seance_06.html)
 [→ Exercices](exercices_seance_06.html)
