@@ -15,7 +15,7 @@ Dépôt du **Laboratoire Info Pass** à l'ISIB - HE2B.
 - **Séance 4 — Fonctions *built-in* et méthodes d'instances** : [Cours](docs/seances/04/cours_seance_04.md) · [Quiz](docs/seances/04/quiz_seance_04.html) · [Exercices](docs/seances/04/exercices_seance_04.md)
 - **Séance 5 — `set` et `dict`** : [Cours](docs/seances/05/cours_seance_05.md) · [Quiz](docs/seances/05/quiz_seance_05.html) · [Exercices](docs/seances/05/exercices_seance_05.md)
 - **Séance 6 — Fonction `main()`, modules** : [Cours](docs/seances/06/cours_seance_06.md) · [Quiz](docs/seances/06/quiz_seance_06.html) · [Exercices](docs/seances/06/exercices_seance_06.md)
-- **Séance 7 — `input()`, fichiers texte, JSON, CSV** : [Cours](docs/seances/07/cours_seance_07.md) · [Quiz](docs/seances/07/quiz_seance_07.html) · [Exercices](docs/seances/07/exercices_seance_07.md)
+- **Séance 7 — Manipulation de fichiers** : [Cours](docs/seances/07/cours_seance_07.md) · [Quiz](docs/seances/07/quiz_seance_07.html) · [Exercices](docs/seances/07/exercices_seance_07.md)
 - **Séance 8 — Exceptions et *one-liners*** : [Cours](docs/seances/08/cours_seance_08.md) · [Quiz](docs/seances/08/quiz_seance_08.html) · [Exercices](docs/seances/08/exercices_seance_08.md)
 - **Séance 9 — PyCharm + NumPy** : [Cours](docs/seances/09/cours_seance_09.md) · [Quiz](docs/seances/09/quiz_seance_09.html) · [Exercices](docs/seances/09/exercices_seance_09.md)
 - **Séance 10 — pandas** : [Cours](docs/seances/10/cours_seance_10.md) · [Quiz](docs/seances/10/quiz_seance_10.html) · [Exercices](docs/seances/10/exercices_seance_10.md)
