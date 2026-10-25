@@ -4,13 +4,15 @@ Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **
 
 Vous y trouverez l'ensemble des ressources du laboratoire :
 
-- les **slides de cours** et des **quiz**
-- les **énoncés d'exercices**
+<ul>
+<li>les <strong>slides de cours</strong> et des <strong>quiz</strong></li>
+<li>les <strong>énoncés d'exercices</strong></li>
+</ul>
 
-<!-- -->
-
-- Format : 14 séances de 3 heures
-- Evaluation : examen écrit de 3 heures, sur PC de laboratoire, à cahier fermé
+<ul>
+<li>Format : 14 séances de 3 heures</li>
+<li>Evaluation : examen écrit de 3 heures, sur PC de laboratoire, à cahier fermé</li>
+</ul>
 
 ## Tableau des séances
 

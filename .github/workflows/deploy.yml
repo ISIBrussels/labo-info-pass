@@ -256,6 +256,10 @@ jobs:
                   color: var(--color-secondary);
                 }
 
+                ul + ul {
+                  margin-top: 1.75rem;
+                }
+
                 li + li {
                   margin-top: 0.35rem;
                 }
