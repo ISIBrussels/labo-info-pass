@@ -1,4 +1,4 @@
-# Séance 3 — Boucles et séquences (`list`, `tuple`, `range`)
+# Séance 3 — Boucles, séquences et la parenthèse
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
