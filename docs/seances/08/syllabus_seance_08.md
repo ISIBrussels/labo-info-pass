@@ -1,4 +1,4 @@
-# Séance 8 — Syllabus
+# Séance 8 — Exceptions (`try` / `except`)
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
@@ -6,14 +6,6 @@
   <a href="quiz_seance_08.html">Quiz</a>
   <a href="exercices_seance_08.html">Exercices</a>
 </nav>
-
-Version texte (markdown) des slides — même contenu que les slides, forme scrollable pour chercher une information.
-
-**Thème :** Exceptions (`try` / `except`)
-
-# Séance 8
-
-Exceptions (`try` / `except`)
 
 ## Objectifs de la séance
 
