@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: tech-info
+theme: isib
 title: "Séance 11 — matplotlib"
 paginate: true
 header: "Labo Info Pass — Séance 11 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"

@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: tech-info
+theme: isib
 title: "Séance 8 — Exceptions (`try` / `except`)"
 paginate: true
 header: "Labo Info Pass — Séance 8 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"

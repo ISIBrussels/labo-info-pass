@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: tech-info
+theme: isib
 title: "Séance 4 — Fonctions *built-in* et méthodes d'instances"
 paginate: true
 header: "Labo Info Pass — Séance 4 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"

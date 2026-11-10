@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: tech-info
+theme: isib
 title: "Séance 1 — Python, Thonny, types, opérateurs, `str`"
 paginate: true
 header: "Labo Info Pass — Séance 1 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"

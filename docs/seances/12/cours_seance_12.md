@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: tech-info
+theme: isib
 title: "Séance 12 — POO : classes et objets"
 paginate: true
 header: "Labo Info Pass — Séance 12 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
