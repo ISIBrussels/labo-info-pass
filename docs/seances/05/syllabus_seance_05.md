@@ -1,4 +1,4 @@
-# Séance 5 — Syllabus
+# Séance 5 — `set` et `dict`
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
@@ -6,14 +6,6 @@
   <a href="quiz_seance_05.html">Quiz</a>
   <a href="exercices_seance_05.html">Exercices</a>
 </nav>
-
-Version texte (markdown) des slides — même contenu que les slides, forme scrollable pour chercher une information.
-
-**Thème :** `set` et `dict`
-
-# Séance 5
-
-`set` et `dict`
 
 ## Objectifs de la séance
 

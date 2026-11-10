@@ -1,4 +1,4 @@
-# Séance 12 — Syllabus
+# Séance 12 — POO : classes et objets
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
@@ -6,14 +6,6 @@
   <a href="quiz_seance_12.html">Quiz</a>
   <a href="exercices_seance_12.html">Exercices</a>
 </nav>
-
-Version texte (markdown) des slides — même contenu que les slides, forme scrollable pour chercher une information.
-
-**Thème :** POO : classes et objets
-
-# Séance 12
-
-POO : classes et objets
 
 ## Objectifs de la séance
 

@@ -1,4 +1,4 @@
-# Séance 14 — Syllabus
+# Séance 14 — POO : héritage
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
@@ -6,14 +6,6 @@
   <a href="quiz_seance_14.html">Quiz</a>
   <a href="exercices_seance_14.html">Exercices</a>
 </nav>
-
-Version texte (markdown) des slides — même contenu que les slides, forme scrollable pour chercher une information.
-
-**Thème :** POO : héritage
-
-# Séance 14
-
-POO : héritage
 
 ## Objectifs de la séance
 
