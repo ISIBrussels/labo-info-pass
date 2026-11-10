@@ -17,15 +17,11 @@ Vous y trouverez l'ensemble des ressources du laboratoire :
 <table>
 <thead>
 <tr>
-<th rowspan="2" align="center">Séance</th>
-<th rowspan="2">Thème</th>
+<th align="center">Séance</th>
+<th>Thème</th>
 <th colspan="2" align="center">Cours</th>
-<th rowspan="2" align="center">Quiz</th>
-<th rowspan="2" align="center">Exercices</th>
-</tr>
-<tr>
-<th align="center">Slides</th>
-<th align="center">Syllabus</th>
+<th align="center">Quiz</th>
+<th align="center">Exercices</th>
 </tr>
 </thead>
 <tbody>
