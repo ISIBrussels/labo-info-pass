@@ -1,13 +1,13 @@
-# Séance 12 — Notes
+# Séance 12 — Syllabus
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
-  <a href="cours_seance_12.html">Slides du cours</a>
+  <a href="cours_seance_12.html">Slides</a>
   <a href="quiz_seance_12.html">Quiz</a>
   <a href="exercices_seance_12.html">Exercices</a>
 </nav>
 
-Version texte (markdown) des slides de la séance — pratique pour chercher une information.
+Version texte (markdown) des slides — même contenu que les slides, forme scrollable pour chercher une information.
 
 **Thème :** POO : classes et objets
 
@@ -21,7 +21,7 @@ POO : classes et objets
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
-  <a href="cours_seance_12.html">Slides du cours</a>
+  <a href="cours_seance_12.html">Slides</a>
   <a href="quiz_seance_12.html">Quiz</a>
   <a href="exercices_seance_12.html">Exercices</a>
 </nav>

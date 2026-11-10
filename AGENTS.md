@@ -16,7 +16,7 @@ Sources : commits / templates de `labo-tech-info-2`, `labo-tech-info-3`, `tech-i
 ## Titres Pages (strict)
 
 5. **Onglet exercices** — `Séance N — Exercices` (via `page_title` dans `.github/workflows/deploy.yml`).  
-5b. **Onglet notes** — `Séance N — Notes` (markdown plat, même pipeline que les exercices).  
+5b. **Onglet syllabus** — `Séance N — Syllabus` (markdown plat scrollable, même pipeline que les exercices ; même contenu que les slides).  
 6. **Onglet accueil** — `Labo Info Pass — ISIB` (em dash).  
 7. **Marp `title` des slides** — `Séance N — <thème>` ; le `header` garde la marque du cours (`Labo Info Pass — Séance N …`).  
    *Sources :* mêmes commits d’alignement des titres ; front matter origin des labos voisins.

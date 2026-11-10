@@ -1,13 +1,13 @@
-# Séance 1 — Notes
+# Séance 1 — Syllabus
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
-  <a href="cours_seance_01.html">Slides du cours</a>
+  <a href="cours_seance_01.html">Slides</a>
   <a href="quiz_seance_01.html">Quiz</a>
   <a href="exercices_seance_01.html">Exercices</a>
 </nav>
 
-Version texte (markdown) des slides de la séance — pratique pour chercher une information.
+Version texte (markdown) des slides — même contenu que les slides, forme scrollable pour chercher une information.
 
 **Thème :** Python, Thonny, types, opérateurs, `str`
 
@@ -21,7 +21,7 @@ Python, Thonny, types, opérateurs, `str`
 
 <nav class="page-nav">
   <a href="../../index.html">← Retour à l'accueil</a>
-  <a href="cours_seance_01.html">Slides du cours</a>
+  <a href="cours_seance_01.html">Slides</a>
   <a href="quiz_seance_01.html">Quiz</a>
   <a href="exercices_seance_01.html">Exercices</a>
 </nav>
