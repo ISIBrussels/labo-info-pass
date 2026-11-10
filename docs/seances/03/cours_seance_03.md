@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: tech-info
+theme: isib
 title: "Séance 3 — Boucles et séquences (`list`, `tuple`, `range`)"
 paginate: true
 header: "Labo Info Pass — Séance 3 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
