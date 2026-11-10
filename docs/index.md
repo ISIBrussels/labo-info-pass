@@ -1,11 +1,11 @@
 # Laboratoire d'Informatique Passerelles
 
-Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Laboratoire d'Informatique Passerelles** à l'**ISIB** (HE2B).
+Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Laboratoire d'Informatique Passerelles** à l'ISIB (HE2B).
 
 Vous y trouverez l'ensemble des ressources du laboratoire :
 
-- le **cours** sous forme de **slides** et de **syllabus** (même contenu, deux formes différentes), et des **quiz**
-- les **énoncés d'exercices**
+- le cours sous deux formes : slides et syllabus (même contenu), et des quiz
+- les énoncés d'exercices
 
 <!-- sépare les deux listes (sinon Markdown les fusionne) -->
 
