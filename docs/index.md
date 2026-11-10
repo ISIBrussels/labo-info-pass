@@ -43,7 +43,7 @@ Vous y trouverez l'ensemble des ressources du laboratoire :
 </tr>
 <tr>
 <td align="center">3</td>
-<td>Boucles et séquences (<code>list</code>, <code>tuple</code>, <code>range</code>)</td>
+<td>Boucles, séquences et la parenthèse</td>
 <td align="center"><a href="seances/03/cours_seance_03.html">Slides</a></td>
 <td align="center"><a href="seances/03/syllabus_seance_03.html">Syllabus</a></td>
 <td align="center"><a href="seances/03/quiz_seance_03.html">Quiz</a></td>
