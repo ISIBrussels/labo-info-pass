@@ -1,7 +1,7 @@
 # Séance 8 — Exceptions (`try` / `except`)
 
 <nav class="page-nav">
-  <a href="../../index.html">← Retour à l'accueil</a>
+  <a href="../../index.html">Accueil</a>
   <a href="cours_seance_08.html">Slides</a>
   <a href="quiz_seance_08.html">Quiz</a>
   <a href="exercices_seance_08.html">Exercices</a>
@@ -12,7 +12,7 @@
 - À définir
 
 <nav class="page-nav">
-  <a href="../../index.html">← Retour à l'accueil</a>
+  <a href="../../index.html">Accueil</a>
   <a href="cours_seance_08.html">Slides</a>
   <a href="quiz_seance_08.html">Quiz</a>
   <a href="exercices_seance_08.html">Exercices</a>

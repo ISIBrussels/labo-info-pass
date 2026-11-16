@@ -1,7 +1,7 @@
 # Séance 5 — `set` et `dict`
 
 <nav class="page-nav">
-  <a href="../../index.html">← Retour à l'accueil</a>
+  <a href="../../index.html">Accueil</a>
   <a href="cours_seance_05.html">Slides</a>
   <a href="quiz_seance_05.html">Quiz</a>
   <a href="exercices_seance_05.html">Exercices</a>
@@ -12,7 +12,7 @@
 - À définir
 
 <nav class="page-nav">
-  <a href="../../index.html">← Retour à l'accueil</a>
+  <a href="../../index.html">Accueil</a>
   <a href="cours_seance_05.html">Slides</a>
   <a href="quiz_seance_05.html">Quiz</a>
   <a href="exercices_seance_05.html">Exercices</a>
